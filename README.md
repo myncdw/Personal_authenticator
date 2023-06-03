@@ -1,0 +1,2 @@
+# Personal_authenticator
+为了防止有人冒充我而写的软件
